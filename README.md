@@ -10,7 +10,7 @@
   - Mysql
 
 # Descrição do aplicativo
-  - Aplicativo voltado para encontros, você cria seu proprio encontro, outras pessoas acessam o aplicativo e visualiza encontros proximos a posição dele via GPS, a aplicação prove uma interface amigável usando google maps, e assim possibilita o usuário a ingrassar em um evento.
+  - Aplicativo voltado para encontros, você cria seu próprio encontro, outras pessoas acessam o aplicativo e visualiza encontros próximos a posição dele via GPS, a aplicação prove uma interface amigável usando google maps, e assim possibilita o usuário a ingressar em um evento.
 
 # Features já implementada
 # Features para ser implementadas.
